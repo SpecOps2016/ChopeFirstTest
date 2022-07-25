@@ -127,7 +127,7 @@ function UpcomingBooking() {
       </Container>
     </Navbar>
 
-    <div className="bg-light border-top mt-4">
+    <div className="bg-light border-top mt-4 border-bottom">
     <h1  class= "bg-light fw-normal fs-20 bold text-center mt-2">Upcoming Bookings</h1>
     <h2 class= "bg-light  fw-normal fs-20 bold text-center mb-4">Below are your upcoming bookings</h2>
     </div>

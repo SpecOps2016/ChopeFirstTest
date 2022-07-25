@@ -98,7 +98,7 @@ function Telegram() {
                   <div class="d-flex justify-content-center">
                     Click Here To Receive Updates on Telegram!
                   </div>
-                  <a href="https://t.me/chopefirst" class="d-flex justify-content-center">Telegram Channel</a>
+                  <a href="https://t.me/chopefirst"  target="_blank" class="d-flex justify-content-center">Telegram Channel</a>
                   </div>
                 </div>
               </div>

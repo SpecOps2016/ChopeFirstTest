@@ -58,7 +58,7 @@ function Home() {
         <MDBCol md='3'>
           {/* usc gym card */}
           <MDBCard style={{ maxWidth: '22rem', height: "30rem" }}>
-            <MDBCardImage src='https://uci.nus.edu.sg/suu/wp-content/uploads/sites/5/2021/07/USC-GYM.1-1024x768.jpg' position='top' alt='...' />
+            <MDBCardImage src='https://uci.nus.edu.sg/suu/wp-content/uploads/sites/5/2021/07/USC-GYM.1-1024x768.jpg' position='top' alt='...' className="photo"/>
             <MDBCardBody>
               <MDBCardTitle>USC Gym</MDBCardTitle>
               <MDBCardText>
@@ -72,7 +72,7 @@ function Home() {
         <MDBCol md='3'>
           {/* utown gym card */}
           <MDBCard style={{ maxWidth: '22rem', height: "30rem" }}>
-            <MDBCardImage src='https://uci.nus.edu.sg/suu/wp-content/uploads/sites/5/2021/09/Utown-Gym-4-1024x768.jpg' position='top' alt='...' />
+            <MDBCardImage src='https://uci.nus.edu.sg/suu/wp-content/uploads/sites/5/2021/09/Utown-Gym-4-1024x768.jpg' position='top' alt='...' className="photo"/>
             <MDBCardBody>
               <MDBCardTitle>U Town Gym</MDBCardTitle>
               <MDBCardText>
@@ -86,7 +86,7 @@ function Home() {
         <MDBCol md='3'>
           {/* wellness outreach gym card */}
           <MDBCard style={{ maxWidth: '22rem', height: "30rem" }}>
-            <MDBCardImage src='https://www.nuss.org.sg/nuss_admin/uploads/1462343328_gym_overview_2.jpg' position='top' alt='...'/>
+            <MDBCardImage src='https://www.nuss.org.sg/nuss_admin/uploads/1462343328_gym_overview_2.jpg' position='top' alt='...' className="photo"/>
             <MDBCardBody>
               <MDBCardTitle>Wellness Outreach Gym</MDBCardTitle>
               <MDBCardText>
@@ -100,7 +100,7 @@ function Home() {
         <MDBCol md='3'>
           {/* kr mpsh 3 card */}
           <MDBCard style={{ maxWidth: '22rem', height: "30rem" }}>
-            <MDBCardImage src='https://uci.nus.edu.sg/suu/wp-content/uploads/sites/5/2021/07/MPSH3-Gym.4-1024x768.jpg' position='top' alt='...' />
+            <MDBCardImage src='https://uci.nus.edu.sg/suu/wp-content/uploads/sites/5/2021/07/MPSH3-Gym.4-1024x768.jpg' position='top' alt='...' className="photo" />
             <MDBCardBody>
               <MDBCardTitle>Kent Ridge Fitness Gym @ MPSH 3</MDBCardTitle>
               <MDBCardText>

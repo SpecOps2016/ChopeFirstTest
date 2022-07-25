@@ -3,3 +3,9 @@ body {
     background: linear-gradient(to right, #00a100, #C1E1C1);
     display: grid;
 }
+
+
+.photo {
+    height: 250px;
+    width: 200px;
+  }
