@@ -1,0 +1,7 @@
+body {
+    /* background: #00ff2f; */
+    background: linear-gradient(to right, #00a100, #C1E1C1);
+    display: grid;
+    font-family: sans-serif;
+    text-align: center;
+}
